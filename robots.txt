@@ -1,0 +1,10 @@
+# robots.txt file for IAL and IGCSE Intensive Course website
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://igcseandialcourses.com/sitemap.xml
+
+# Prevent crawling of these directories if needed
+# Disallow: /img/private/
+# Disallow: /admin/ 
